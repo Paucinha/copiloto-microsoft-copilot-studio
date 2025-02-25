@@ -21,35 +21,22 @@ O objetivo deste desafio é criar seu primeiro Copiloto no Microsoft Copilot Stu
 ### Etapas do Desafio
 
 * Conectar/Criar uma conta Microsoft 365 
-[text](https://copilotstudio.microsoft.com/)
+![https://copilotstudio.microsoft.com/](https://copilotstudio.microsoft.com/)
 
-*Criar um Copilot baseado no modelo 
-Escolha o modelo de Viagens ou "Safe Travels" 
+![alt text](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/media/fundamentals-what-is-pva-portal/overview-mcs-home-page.png)
 
-*Criar um Copilot baseado em descrição com IA 
+* Criar um Copilot baseado no modelo 
+Escolha o modelo de Viagens ou "Safe Travels"
 
-*Criar um Copilot em branco
+* Criar um Copilot baseado em descrição com IA 
 
-
-### Conectar/Criar uma conta Microsoft 365 
-
-https://learn.microsoft.com/pt-br/microsoft-copilot-studio/media/fundamentals-what-is-pva-portal/overview-mcs-home-page.png
-
-### Criar um Copilot baseado no modelo 
-
-
-### Criar um Copilot baseado em descrição com IA 
-
-
-
-
+* Criar um Copilot em branco
 
 ## Links Importantes
 
-[text](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
+![Documentação do Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
 
-
-![Documentação do Microsoft Copilot Studio](https://assets.dio.me/IwGGaOEYVw9pPUMVGEaqp7eKn1gV22wDOHmmAmI0zDY/f:webp/h:221/q:80/L3RyYWNrcy9jb3Zlci83OWZiNzhkZC0xNTQ3LTQ0N2YtYTNkOC04ZGQwMWU1YWMzNTEucG5n)
+![text](https://assets.dio.me/IwGGaOEYVw9pPUMVGEaqp7eKn1gV22wDOHmmAmI0zDY/f:webp/h:221/q:80/L3RyYWNrcy9jb3Zlci83OWZiNzhkZC0xNTQ3LTQ0N2YtYTNkOC04ZGQwMWU1YWMzNTEucG5n)
 
 ##
 
@@ -58,4 +45,3 @@ Projeto desenvolvido durante o [**Bootcamp Suzano - Python Developer**](https://
 ##
 
 - [By Páucinha](https://github.com/Paucinha)
-
