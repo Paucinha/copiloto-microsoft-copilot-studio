@@ -20,8 +20,7 @@ O objetivo deste desafio é criar seu primeiro Copiloto no Microsoft Copilot Stu
 
 ### Etapas do Desafio
 
-* Conectar/Criar uma conta Microsoft 365 
-![https://copilotstudio.microsoft.com/](https://copilotstudio.microsoft.com/)
+* Conectar/Criar uma conta Microsoft 365 [https://copilotstudio.microsoft.com/](https://copilotstudio.microsoft.com/)
 
 ![alt text](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/media/fundamentals-what-is-pva-portal/overview-mcs-home-page.png)
 
@@ -34,7 +33,7 @@ Escolha o modelo de Viagens ou "Safe Travels"
 
 ## Links Importantes
 
-![Documentação do Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
+[**Documentação do Microsoft Copilot Studio**](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
 
 ![text](https://assets.dio.me/IwGGaOEYVw9pPUMVGEaqp7eKn1gV22wDOHmmAmI0zDY/f:webp/h:221/q:80/L3RyYWNrcy9jb3Zlci83OWZiNzhkZC0xNTQ3LTQ0N2YtYTNkOC04ZGQwMWU1YWMzNTEucG5n)
 
