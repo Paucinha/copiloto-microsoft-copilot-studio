@@ -31,7 +31,9 @@ Escolha o modelo de Viagens ou "Safe Travels"
 
 ![alt text](https://github.com/Paucinha/copiloto-microsoft-copilot-studio/blob/master/ViagensSeguras.png)
 
-* Criar um Copilot baseado em descrição com IA 
+* Criar um Copilot baseado em descrição com IA
+
+![alt text](https://github.com/Paucinha/copiloto-microsoft-copilot-studio/blob/master/Copilot%20baseado%20em%20descri%C3%A7%C3%A3o%20com%20IA.png)
 
 * Criar um Copilot em branco
 
