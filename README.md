@@ -35,7 +35,8 @@ Escolha o modelo de Viagens ou "Safe Travels"
 
 ## Links Importantes
 
-[**Documentação do Microsoft Copilot Studio**](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
+* [**Documentação do Microsoft Copilot Studio**](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
+* [**Template Safe Travels**](https://learn.microsoft.com/en-us/microsoft-copilot-studio/template-safe-travels)
 
 ##
 
