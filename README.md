@@ -29,6 +29,8 @@ O objetivo deste desafio é criar seu primeiro Copiloto no Microsoft Copilot Stu
 * Criar um Copilot baseado no modelo 
 Escolha o modelo de Viagens ou "Safe Travels"
 
+![alt text](https://github.com/Paucinha/copiloto-microsoft-copilot-studio/blob/master/ViagensSeguras.png)
+
 * Criar um Copilot baseado em descrição com IA 
 
 * Criar um Copilot em branco
