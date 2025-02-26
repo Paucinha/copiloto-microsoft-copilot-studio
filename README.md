@@ -24,6 +24,8 @@ O objetivo deste desafio é criar seu primeiro Copiloto no Microsoft Copilot Stu
 
 ![alt text](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/media/fundamentals-what-is-pva-portal/overview-mcs-home-page.png)
 
+![alt text](https://learn.microsoft.com/pt-br/training/modules/power-virtual-agents-bots/media/create-bot.png#lightbox)
+
 * Criar um Copilot baseado no modelo 
 Escolha o modelo de Viagens ou "Safe Travels"
 
